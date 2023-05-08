@@ -15,10 +15,9 @@ usuais, software, vantagens e desvantagens. Exemplos e descrição de metodologi
 2. Por que é importante explorar e visualizar dados?
 3. Quais são os benefícios da exploração e visualização de dados?
 
-### **2. Extração e Preparação de dados:**
-1. Como extrair dados para exploração e visualização?
-2. Como preparar dados para exploração e visualização?
-3. Quais são as técnicas de limpeza e transformação de dados mais comuns?
+### **2. Preparação de dados:**
+1. Como preparar dados para exploração e visualização?
+2. Quais são as técnicas de limpeza e transformação de dados mais comuns?
 
 ### **3. Ferramentas de exploração e visualização de dados:**
 1. Quais são as ferramentas mais populares para exploração e visualização de dados?
