@@ -24,15 +24,15 @@ usuais, software, vantagens e desvantagens. Exemplos e descrição de metodologi
 2. Quais são as vantagens e desvantagens de cada ferramenta?
 3. Como escolher a melhor ferramenta para cada tipo de projeto?
 
-### **4. Técnicas de visualização de dados:**
-1. Quais são as técnicas mais comuns de visualização de dados?
-2. Como escolher a melhor técnica de visualização de acordo com o tipo de dado?
-3. Como criar visualizações eficazes e atraentes?
-
-### **5. Análise exploratória de dados:**
+### **4. Análise exploratória de dados:**
 1. O que é análise exploratória de dados?
 2. Como realizar análise exploratória de dados?
 3. Quais são as técnicas de análise exploratória de dados mais comuns?
+
+### **5. Técnicas de visualização de dados:**
+1. Quais são as técnicas mais comuns de visualização de dados?
+2. Como escolher a melhor técnica de visualização de acordo com o tipo de dado?
+3. Como criar visualizações eficazes e atraentes?
 
 ### **6. Casos de uso de exploração e visualização de dados:**
 1. Quais são os casos de uso mais comuns de exploração e visualização de dados?
