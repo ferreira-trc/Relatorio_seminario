@@ -14,7 +14,7 @@ covariancia_simetrica[np.isnan(covariancia_simetrica)] = covariancia_simetrica.T
 
 
 # Leitura dos dados do arquivo Excel
-dados_retorno = pd.read_excel('Otimização.xlsx', sheet_name='Folha5', index_col=0)
+dados_retorno = pd.read_excel('Otimização.xlsx', sheet_name='Retornos', index_col=0)
 
 # Extração da coluna desejada como lista
 coluna_lista = dados_retorno['Medias'].tolist()
