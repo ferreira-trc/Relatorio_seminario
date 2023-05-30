@@ -39,7 +39,7 @@ risco_portfolio = modelo.sum(
     for i in coluna_tickers
 )
 
-risco_portfolio_min = 0.0002
+risco_portfolio_min = 0.002
 
 # Restrição: 
 modelo.add_constraint(modelo.sum(tickers[i] for i in tickers) == 1)
